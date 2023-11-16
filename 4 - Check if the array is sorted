@@ -1,0 +1,27 @@
+// Brute 
+
+// Using two for loops
+
+for (int i = 0; i < n; i++) {
+    for (int j = i + 1; j < n; j++) {
+      if (arr[j] < arr[i])
+        return false;
+    }
+  }
+
+  return true;
+
+// TC O(N^2)
+
+
+// Solution
+
+Traverse and check for next element is greater or equal.
+
+for{
+  if(a[i] >= a[i-1]){
+  }else return false;
+}
+  return true;
+
+// TC O(N)
