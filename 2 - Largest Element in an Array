@@ -1,0 +1,13 @@
+Find The largest element in the array
+
+//Brute Force 
+Sort the array
+
+// TC - NLog(N)
+// SC - O(1) for Quick Sort ignoring the recursive stack space
+
+
+// Optimal Solution
+Let first element be the largest and traverse and compare
+
+// TC - O(N)
