@@ -1,2 +1,2 @@
 # DSA-Arrays
-Starting DSA from Scratch
+Revising DSA from Scratch
