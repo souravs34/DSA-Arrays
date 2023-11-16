@@ -1,0 +1,15 @@
+ 1. Arrays contains elements which have same datatype either integer,string,char
+ 
+ <-------------------------------------------------------------------------------------->
+ int arr1[6]; // Array will contain all elements initialised as zero
+ int main(){
+    int arr2[6];// Array will contain all elements as garbage values.
+ }
+ <--------------------------------------------------------------------------------------->
+
+ int arr1[10^7];  // Max size of array is 10^7
+int main(){
+  int arr2[10^6]; // Max size of array is 10^6
+}
+
+<----------------------------------------------------------------------------------------->
